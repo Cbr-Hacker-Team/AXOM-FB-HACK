@@ -79,9 +79,11 @@ $ apt install python2
 
 $ git clone https://github.com/Cbr-Hacker-Team/AXOM-FB-HACK.git
 
-$ cd CbrTeam
+$ cd AXOM-FB-HACK
 
-$ python2  CbrTeam.py
+$ ls
+
+$ python2 axom.py
 ```
 
 
