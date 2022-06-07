@@ -77,13 +77,11 @@ $ apt install git
 
 $ apt install python2
 
-$ git clone https://github.com/Cbr-Hacker-Team/whale-phish.git
+$ git clone https://github.com/Cbr-Hacker-Team/AXOM-FB-HACK.git
 
-$ cd AXOM-FB-HACK
+$ cd CbrTeam
 
-$ ls
-
-$ python2 CbrTeam.py 
+$ python2  CbrTeam.py
 ```
 
 
