@@ -86,6 +86,10 @@ $ ls
 $ python2 axom.py
 ```
 
+```
+Username : CbrTeam
+Password : axom
+```
 
 
 <p align="center"><a href="https://github.com/CbrAbuTaher/CbrAbuTaher"><img title="CbrTeam" src="https://i.ibb.co/0BqCJFx/20220531-011346.jpg"></a>
